@@ -17,7 +17,7 @@ export function Index(ctx: Context) {
 
   const text = [
     emoji,
-    ...(textToTransform ? textToTransform : 'SPARKLES'),
+    ...(textToTransform ? textToTransform : 'VRAAGTEKEN'),
     emoji
   ].join(' ');
 
